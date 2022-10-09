@@ -1,0 +1,114 @@
+body {
+    background-color: rgb(252, 229, 199);
+    margin-top: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    text-align: justify;
+}
+
+p {
+    text-decoration: solid;
+    text-transform: uppercase;
+    text-align: justify;
+}
+
+h1 {
+    text-decoration: solid;
+    text-transform: uppercase;
+    text-align: justify;
+}
+
+h3 {
+    text-decoration: solid;
+    text-transform: uppercase;
+    text-align: justify;
+}
+
+li {
+    text-indent: 10px;
+    text-align: justify;
+    font-size: larger;
+}
+
+#containerTwo {
+    margin: 50 100;
+    padding: 50 100;
+    width: 100%;
+    height: 100%;
+    background-color: antiquewhite;
+}
+
+#name {
+    margin-top: 40px;
+    padding-top: 40px;
+    width: auto;
+    height: auto;
+}
+
+#container {
+    margin: auto;
+    width: 85%;
+    height: 70%;
+    background-color: antiquewhite;
+    text-indent: 20px;
+}
+
+#header {
+    height: auto;
+    width: auto;
+    padding-left: 300px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    text-indent: 20px;
+}
+
+#utbildningar {
+    height: auto;
+    width: auto;
+    padding-left: 100px;
+    padding-bottom: 20px;
+    text-indent: 20px;
+}
+
+#arbete {
+    height: auto;
+    width: auto;
+    padding-left: 100px;
+    padding-bottom: 20px;
+    text-indent: 20px;
+}
+
+#intressen {
+    height: auto;
+    width: auto;
+    padding-left: 100px;
+    padding-bottom: 20px;
+    text-indent: 20px;
+}
+
+#kompetenser {
+    height: auto;
+    width: auto;
+    padding-left: 100px;
+    padding-bottom: 20px;
+    text-indent: 20px;
+}
+
+#lang {
+    height: auto;
+    width: auto;
+    padding-left: 100px;
+    padding-bottom: 20px;
+    text-indent: 20px;
+}
+
+h1 {
+    color: #000000;
+    height: 100%;
+    width: 100%;
+}
+
+ul {
+    color: rgb(0, 0, 0);
+}
